@@ -2,10 +2,10 @@
 toc: true
 comments: false
 layout: post
-title: Snake
-description: Example Blog!!!  This shows planning and notes from hacks.
-type: hack
-courses: { compsci: {week: 3} }
+title:  Clasic Snake Game
+description: 
+type: hacks
+courses: { compsci: {week: 2 } }
 ---
 
 <style>
