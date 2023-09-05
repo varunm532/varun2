@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title:  Js Output  
+title:  Js Output/Personilized  
 type: hacks
 courses: { compsci: {week: 2} }
 ---
