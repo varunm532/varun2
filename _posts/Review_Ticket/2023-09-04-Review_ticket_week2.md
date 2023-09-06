@@ -8,7 +8,7 @@ type: tangibles
 courses: { compsci: {week: 2} }
 ---
 
-### Things I learned
+### Summary of Accomplishments
 > Week 2
 - Finished the hacks in Python IO and made a quiz
 - Make a new repository and tansfered all changes form my old repo 
