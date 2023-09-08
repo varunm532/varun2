@@ -8,7 +8,7 @@ type: tangibles
 courses: { compsci: {week: 0} }
 ---
 
-### Summary of Accomplishments
+### What I learned
 > Week 0
 - When setting up the password for wsl, when you type, the password won't show up on the screen, but you will still be typing 
 - Don't fork a repository, instead make a templet

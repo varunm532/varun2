@@ -47,3 +47,7 @@ courses: { compsci: {week: 3} }
 > - Tuesday: final cheacks before live review; Live review. Share Pair showcase plan in slack
 >
 > - Wednesday: Prepare for Pair showcase; Add color to the snake game
+>
+> - Thursday: Write review tickets and lab notebooks for the week. Complete Js_Input and make changes to Js_Output. Make a fun project for the pair showcase.
+>
+> - Friday: Pair showcase
