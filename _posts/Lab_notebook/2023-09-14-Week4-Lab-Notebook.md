@@ -22,4 +22,12 @@ courses: { compsci: {week: 4 } }
 >> - To print the questions/promt:
 >>>
 >>> - question["quest"][q]
->>> -  the questions dictonary is really just a single string, so 
+>>>
+>>> -  the questions dictonary is really just a single string
+>>>
+>>> -  q is a varible contaning a number and that is used to pull the corrosponding thing from the list
+> - While loop
+>> 
+>> - "while q <6:" the while loops loops until the conditions becomes false. 
+
+#### Agile Methodology
