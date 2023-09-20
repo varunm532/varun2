@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: Daily/Pair showcase Plan
-description: Daily Plans for week 3
+title: Daily Plans
+description: Daily Plans for week 4
 type: plans
 courses: { compsci: {week: 4} }
 ---
