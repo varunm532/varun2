@@ -30,4 +30,4 @@ courses: { compsci: {week: 4 } }
 >> 
 >> - "while q <6:" the while loops loops until the conditions becomes false. 
 
-#### Agile Methodology
+
