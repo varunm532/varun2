@@ -2,9 +2,9 @@
 toc: true
 comments: true
 layout: post
-title: Daily Plans
-description: Daily plans for week 7
-type: tangibles
+title: Daily Plan 
+description: Daily Plan Week 7
+type: plans
 courses: { compsci: {week: 7} }
 ---
 
