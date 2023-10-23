@@ -1,0 +1,8 @@
+
+
+### Daily plans for week 9
+
+- Get shared frontend and backend ready for project feature check 
+- Finish all teach teach hacks on time and turn them in
+- Finilize plans for passion project and start working on it
+- Summarize learning in Lab Notebooks at the end of the week
