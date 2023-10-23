@@ -1,4 +1,12 @@
-
+---
+toc: true
+comments: true
+layout: post
+title: Daily Plans
+description: Daily Plans for week 9
+type: plans
+courses: { compsci: {week: 9} }
+---
 
 ### Daily plans for week 9
 

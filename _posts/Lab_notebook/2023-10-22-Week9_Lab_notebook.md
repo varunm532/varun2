@@ -1,4 +1,12 @@
-
+---
+toc: true
+comments: true
+layout: post
+title: Lab Notebook Week 9
+description: Lab Notebook Week 9
+type: tangibles
+courses: { compsci: {week: 9 } }
+---
 ## What I learned this week
 
 > ### Developing Algorithms

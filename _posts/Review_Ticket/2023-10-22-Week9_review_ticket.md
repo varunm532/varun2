@@ -1,3 +1,12 @@
+---
+toc: true
+comments: true
+layout: post
+title: Review Ticket Week 9
+description: Review Ticket Week 9
+type: tangibles
+courses: { compsci: {week: 9} }
+---
 
 
 ### Achivements for the week
