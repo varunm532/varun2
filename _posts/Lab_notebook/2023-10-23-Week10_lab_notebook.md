@@ -46,7 +46,7 @@ weather = 66 # parameter
 currentgrade = updateweather(currentweather, weather)
 print("the temperature right now is", currentweather, "degrees")"
 > - Classes
- eg.
+ - eg.
  ```
 class charecter:
     hight = 10
@@ -56,5 +56,5 @@ class charecter:
  - to use a specific thing from a class
  eg. charecter.hight
 
- ### Javascript/add dropdown menue
+### Javascript/add dropdown menue
  
