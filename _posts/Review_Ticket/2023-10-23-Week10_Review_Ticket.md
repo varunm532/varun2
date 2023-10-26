@@ -10,3 +10,6 @@ courses: { compsci: {week: 10} }
 
 ### Achivements for the week
 - improved on frontend design for the passion project and succesfully added styling using css
+- Implemented Javascript by using DOM and implementing a dropdown menue
+- finished hacks for DevelopingPrecedures
+- Wrote notes for Developing Precedures
