@@ -22,3 +22,17 @@ len(str) countes the number of characters in a string; also works for lists
     Substring - string[2:10]
     print(substring)
 result: llo, wor
+
+> ### Booleans If
+
+- True or False
+- NOT condition: flips what is currently stored in the variable without impacting the variable/condition itself
+    -eg. 
+    ```
+    israining --> true
+    x --> not israining
+    x --> false
+    ```
+
+- AND condition: checks both conditions to produce one single Boolean true or false
+- OR condition: checks whether or not one of the conditions is true or false
