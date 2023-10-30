@@ -13,3 +13,4 @@ courses: { compsci: {week: 10} }
 - Implemented Javascript by using DOM and implementing a dropdown menue
 - finished hacks for DevelopingPrecedures
 - Wrote notes for Developing Precedures
+- ![drop down menu](<Screenshot 2023-10-29 231411.png>)
