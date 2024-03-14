@@ -2,10 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: CPT prroject indivsdfas
+title: Individual review
 description: Daily Plans for week 16
 type: plans
-courses: { compsci: {week: 20} }
+courses: { compsci: {week: 23} }
 ---
 ## I believe that I should get (3.0/3.0) for my individual seed:
 (note: for some reason my vscode keeps crashing so unable to create blog. Will copy this into blog after vscode issue is resolved)
